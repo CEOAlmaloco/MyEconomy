@@ -1,0 +1,27 @@
+.tableFormat table {
+    margin: 0 auto;
+}
+
+td, th {
+    text-align: center;
+    padding: 10px;
+    border: solid black 1px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    background-color:rgba(230, 230, 230, 0)
+}
+
+.ClaseFormulario {
+    margin-bottom: 20px;
+    background-color: #ebebeb00
+}
+
+#botonAñadir {
+    font-size: 20px;
+}
