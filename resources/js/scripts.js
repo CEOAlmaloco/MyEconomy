@@ -6,6 +6,7 @@
             return newTransactionId;
         }
 
+        //HICE UN CAMBIO 
 
         // Función para convertir los datos del formulario en un objeto de transacción
         function convertFormDataToTransactionObj(transactionFormData) {
